@@ -6,7 +6,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const MyComponent = () => {
   return (
     <View style={styles.container}>
-      <Text>MyComponent</Text>
+      <Text>MyCompon11111111111111111111111111111112454ent</Text>
     </View>
   );
 };
